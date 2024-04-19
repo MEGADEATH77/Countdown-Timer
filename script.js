@@ -4,7 +4,7 @@ const minsEl = document.getElementById('mins');
 const secondsEl = document.getElementById('seconds');
 
 
-const productLaunch = "1 Jan 2023";
+const productLaunch = "1 Jan 2025";
 
 function countdown(){
     const productLaunchDate = new Date(productLaunch);
